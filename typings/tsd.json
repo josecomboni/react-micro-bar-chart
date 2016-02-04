@@ -1,0 +1,41 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "installed": {    
+    "jquery/jquery.d.ts": {
+      "commit": "62eedc3121a5e28c50473d2e4a9cefbcb9c3957f"
+    },
+    "react/react.d.ts": {
+      "commit": "001ca36ba58cef903c4c063555afb07bbc36bb58"
+    },
+    "domready/domready.d.ts": {
+      "commit": "62eedc3121a5e28c50473d2e4a9cefbcb9c3957f"
+    },
+    "requirejs-domready/domready.d.ts": {
+      "commit": "62eedc3121a5e28c50473d2e4a9cefbcb9c3957f"
+    },
+    "requirejs/require.d.ts": {
+      "commit": "8c4ec896ab619e7cb6572f82423e6e1eece70f5a"
+    },
+    "react-dom/react-dom.d.ts": {
+      "commit": "0dd29bf8253536ae24e61c109524e924ea510046"
+    },
+    "flux/flux.d.ts": {
+      "commit": "001ca36ba58cef903c4c063555afb07bbc36bb58"
+    },
+    "lodash/lodash.d.ts": {
+      "commit": "0dd29bf8253536ae24e61c109524e924ea510046"
+    },
+    "alt/alt.d.ts": {
+      "commit": "001ca36ba58cef903c4c063555afb07bbc36bb58"
+    },
+    "es6-promise/es6-promise.d.ts": {
+      "commit": "001ca36ba58cef903c4c063555afb07bbc36bb58"
+    },
+    "d3/d3.d.ts": {
+      "commit": "dc9dabe74a5be62613b17a3605309783a12ff28a"
+    }
+  }
+}
