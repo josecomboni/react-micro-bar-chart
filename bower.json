@@ -11,7 +11,7 @@
   "_resolution": {
     "type": "version",
     "tag": "v1.0.3",
-    "commit": "96c0cce82a192f8e8ebfad01d3d9ab042e394475"
+    "commit": "72d86bd14bf78131af3f38b28117f33949b885a3"
   },
   "_source": "git://github.com/josecomboni/react-micro-bar-chart.git",
   "_target": "1.0.3",
