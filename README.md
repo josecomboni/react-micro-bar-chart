@@ -3,7 +3,7 @@ react-micro-bar-chart
 
 React component for micro bar-charts rendered with D3. Companion to [react-sparkline](https://github.com/KyleAMathews/react-sparkline).
 This repo was forked from [Kyle Mathews original project](https://github.com/KyleAMathews/react-micro-bar-chart)
-And with contriburionts from [Sean Sun](https://github.com/seanysun/react-micro-bar-chart)
+and with contributions from [Sean Sun](https://github.com/seanysun/react-micro-bar-chart)
 
 
 ## Install
