@@ -3,24 +3,24 @@ var root = __CONFIG__.PACKAGES.filter((pkg) => pkg.name === 'react-micro-bar-cha
 var config: RequireConfig = {
 	packages: [
 		{
-      name: 'react-dom',
+      name: 'rmbc-reactdom',
       location: root.location + '/bower_components/react',
       main: 'react-dom'
     },
     {
-      name: 'react',
+      name: 'rmbc-react',
       location: root.location + '/bower_components/react',
       main: 'react'
     }
 	],
 	paths: {
-		'da-d3': root.location + '/bower_components/d3/d3'
+		'rmbc-d3': root.location + '/bower_components/d3/d3'
 	},
 	map: {		
     'react-micro-bar-chart': {
-      'd3': 'd3',
-      'React': 'react',
-      'ReactDOM': 'react-dom'
+      'rmbc-d3': 'd3',
+      'rmbc-React': 'react',
+      'rmbc-ReactDOM': 'react-dom'
     }
 	}
 };

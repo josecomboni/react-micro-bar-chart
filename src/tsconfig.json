@@ -1,12 +1,15 @@
 {
    "compilerOptions": {
-       "module": "commonjs",
+       "module": "amd",       
+       "target": "es5",
        "noImplicitAny": true,
        "listFiles": true,
        "removeComments": true,
        "preserveConstEnums": true,
        "rootDir": "./src",
        "outDir": "../built/",
-       "sourceMap": true
+       "sourceMap": true,
+       "experimentalDecorators": true,
+		"jsx": "react"
    }
 }

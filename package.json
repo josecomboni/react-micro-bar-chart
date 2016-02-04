@@ -2,9 +2,9 @@
   "name": "react-micro-bar-chart",
   "description": "React component for micro bar-charts rendered with D3",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Jose Comboni <jocomboni@gmail.com> (forked from Kyle Mathews <mathews.kyle@gmail.com>)",
   "bugs": {
-    "url": "https://github.com/KyleAMathews/react-micro-bar-chart/issues"
+    "url": "https://github.com/josecomboni/react-micro-bar-chart/issues"
   },
   "dependencies": {
     "d3": "^3.5.5"
@@ -27,7 +27,7 @@
     "webpack": "^1.9.7",
     "webpack-dev-server": "^1.8.2"
   },
-  "homepage": "https://github.com/KyleAMathews/react-micro-bar-chart",
+  "homepage": "https://github.com/josecomboni/react-micro-bar-chart",
   "keywords": [
     "react",
     "react-component"
@@ -36,7 +36,7 @@
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KyleAMathews/react-micro-bar-chart.git"
+    "url": "https://github.com/josecomboni/react-micro-bar-chart.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
