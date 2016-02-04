@@ -1,0 +1,19 @@
+{
+  "name": "react-micro-bar-chart",
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "~0.14.3",
+    "d3": "~3.5.12"
+  },
+  "homepage": "https://github.com/josecomboni/react-micro-bar-chart",
+  "version": "1.0.3",
+  "_release": "1.0.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.3",
+    "commit": "a11077052039f7081ef07a4541a5cae705fef2ab"
+  },
+  "_source": "git://github.com/josecomboni/react-micro-bar-chart.git",
+  "_target": "1.0.3",
+  "_originalSource": "josecomboni/react-micro-bar-chart"
+}

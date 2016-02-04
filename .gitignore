@@ -26,3 +26,5 @@ node_modules
 examples/bundle.js
 dist/index.js
 examples/bundle.js.map
+.vscode/
+bower_components/
