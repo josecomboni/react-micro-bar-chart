@@ -12,7 +12,7 @@ export default class MicroBarChart extends React.Component {
       data: [7, 1, 5, 5, 4, 3, 5, 2, 3, 5, 6],
       tooltip: false,
       tipOffset: [0, 0],
-      tipTemplate: function(d, i) {
+      tipTemplate: (d:any, i:any) => {
         return "Value: " + d + ", index: " + i;
       },
       xlink: ''
@@ -35,6 +35,7 @@ export default class MicroBarChart extends React.Component {
   
   renderBarChart() {
     var bar, barWidth, chart, height, self, tooltip, values, xAxis, y;
+    
     self = this;
     if (this.props.hoverColor == null) {
       this.props.hoverColor = this.props.fillColor;
